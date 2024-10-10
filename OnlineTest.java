@@ -1,8 +1,5 @@
 package Game.java;
-
-/*Online Java Paper Test*/  
-	  
-	import java.awt.*;  
+import java.awt.*;  
 	import java.awt.event.*;  
 	import javax.swing.*;  
 	  
